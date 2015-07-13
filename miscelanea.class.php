@@ -172,4 +172,11 @@ if($pais=="Belarus") {
  }
 
 }
+	 
+public $octal
+	public function octal($n){
+	string decoct ( int $number )
+	
+}
+
 ?>
