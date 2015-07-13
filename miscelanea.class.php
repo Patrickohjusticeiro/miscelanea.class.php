@@ -174,7 +174,7 @@ if($pais=="Belarus") {
 }
 	 
 public $octal
-	public function octal($n){
+	public function octal($number){
 	string decoct ( int $number )
 	
 }
